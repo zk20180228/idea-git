@@ -18,6 +18,8 @@ public class GitTest {
         System.out.println(System.currentTimeMillis());
         System.out.println(System.currentTimeMillis());
         System.out.println(System.currentTimeMillis());
+        System.out.println("000000000000000");
+        System.out.println("111111111111111");
     }
 
 }
