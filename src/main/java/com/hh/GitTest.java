@@ -12,7 +12,6 @@ public class GitTest {
     public static void main(String[] args) {
         System.out.println("git very good !");
         System.out.println("hello git !");
-        System.out.println("hello git !");
     }
 
 }
